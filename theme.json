@@ -45,7 +45,6 @@
     "ring": "#737373"
   },
   "images": {
-    "base": "https://raw.githubusercontent.com/Orbisite/api/main/img",
     "logo": "logo_full_no_background.png",
     "hero": "logo_full_no_background.png",
     "favicon": "logo_no_background.png",
