@@ -1,7 +1,23 @@
 {
+  "images": {
+    "base": "https://raw.githubusercontent.com/Orbisite/api/main/img",
+    "logoSrc": "logo_full_no_background.png",
+    "hero": "logo_full_no_background.png",
+    "favicon": "logo_no_background.png",
+    "ogImage": "logo_full_no_background.png",
+    "bento": [
+      "logo_full_no_background.png",
+      "logo_full_no_background.png",
+      "logo_full_no_background.png"
+    ],
+    "testimonialAvatars": [
+      "logo_no_background.png",
+      "logo_no_background.png",
+      "logo_no_background.png"
+    ]
+  },
   "navbar": {
     "logo": { "fr": "Orbisite", "en": "Orbisite" },
-    "logoSrc": "/logo_full_no_background.png",
     "links": [
       { "label": { "fr": "Services", "en": "Services" }, "href": "#services" },
       { "label": { "fr": "Réalisations", "en": "Showcase" }, "href": "#showcase" },
@@ -25,8 +41,7 @@
     "imageAlt": {
       "fr": "Aperçu de maquette de site web",
       "en": "Website preview mockup"
-    },
-    "imageUrl": "https://placehold.co/900x640/e5e5e5/171717?text=Hero+Preview"
+    }
   },
   "features": {
     "sectionId": "services",
@@ -88,10 +103,6 @@
           "fr": "Livraison rapide avec sections réutilisables et structure orientée conversion.",
           "en": "Fast delivery with reusable sections and clean conversion-focused structure."
         },
-        "imageUrl": {
-          "fr": "https://placehold.co/1200x800/0a0a0a/e5e5e5?text=Site+Client+01",
-          "en": "https://placehold.co/1200x800/0a0a0a/e5e5e5?text=Client+Website+01"
-        },
         "href": "#",
         "ctaText": { "fr": "Voir", "en": "Preview" }
       },
@@ -104,10 +115,6 @@
           "fr": "Structure simple, message clair, et modifications de contenu faciles.",
           "en": "Simple structure, clear messaging, and easy content updates."
         },
-        "imageUrl": {
-          "fr": "https://placehold.co/1200x800/171717/d4d4d4?text=Site+Client+02",
-          "en": "https://placehold.co/1200x800/171717/d4d4d4?text=Client+Website+02"
-        },
         "href": "#",
         "ctaText": { "fr": "Voir", "en": "Preview" }
       },
@@ -116,10 +123,6 @@
         "text": {
           "fr": "Mise en page compacte et modulaire adaptée aux activités visuelles.",
           "en": "Compact and modular layout adapted to visual-first businesses."
-        },
-        "imageUrl": {
-          "fr": "https://placehold.co/1200x800/262626/f5f5f5?text=Site+Client+03",
-          "en": "https://placehold.co/1200x800/262626/f5f5f5?text=Client+Website+03"
         },
         "href": "#",
         "ctaText": { "fr": "Voir", "en": "Preview" }
