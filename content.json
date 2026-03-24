@@ -1,0 +1,164 @@
+{
+    "bloc_navbar1" : {
+        "logo" : {
+            "fr" : "Orbisite",
+            "en" : "Orbisite"
+        },
+        "logoSrc" : "/logo_full_no_background.png",
+        "links" : [
+            {
+                "label" : {
+                    "fr" : "Services",
+                    "en" : "Services"
+                },
+                "href" : "#services"
+            },
+            {
+                "label" : {
+                    "fr" : "Réalisations",
+                    "en" : "Showcase"
+                },
+                "href" : "#showcase"
+            },
+            {
+                "label" : {
+                    "fr" : "Tarifs",
+                    "en" : "Pricing"
+                },
+                "href" : "#pricing"
+            },
+            {
+                "label" : {
+                    "fr" : "Témoignages",
+                    "en" : "Testimonials"
+                },
+                "href" : "#testimonials"
+            }
+        ],
+        "ctaText" : {
+            "fr" : "Démarrer un projet",
+            "en" : "Start project"
+        },
+        "ctaHref" : "#contact",
+        "menuLabel" : {
+            "fr" : "Menu",
+            "en" : "Menu"
+        },
+        "closeLabel" : {
+            "fr" : "Fermer",
+            "en" : "Close"
+        }
+    },
+    "bloc_hero1" : {
+        "title" : {
+            "fr" : "Des sites clients livrés avec un système maîtrisé",
+            "en" : "Client websites delivered with a controlled system"
+        },
+        "subtitle" : {
+            "fr" : "Nous concevons et livrons votre site avec un cadre fiable, puis vous mettez à jour les contenus essentiels en toute simplicité.",
+            "en" : "We design and deliver your site with a reliable framework, then your team updates key content without friction."
+        },
+        "ctaText" : {
+            "fr" : "Voir le tarif",
+            "en" : "View pricing"
+        },
+        "ctaHref" : {
+            "fr" : "#pricing",
+            "en" : "#pricing"
+        },
+        "imageUrl" : "https://placehold.co/900x640/e5e5e5/171717?text=Hero+Preview",
+        "imageAlt" : {
+            "fr" : "Aperçu de maquette de site web",
+            "en" : "Website preview mockup"
+        }
+    },
+    "bloc_features1" : {
+        "title" : {
+            "fr" : "Un cadre clair, des mises à jour simples",
+            "en" : "A clear framework, simple updates"
+        },
+        "subtitle" : {
+            "fr" : "Votre équipe peut modifier l’essentiel via API, pendant que nous gardons la maîtrise technique du site.",
+            "en" : "Your team can update core content through API access while we keep structure and quality under control."
+        },
+        "items" : {
+            "fr" : "features.items",
+            "en" : "features.items"
+        }
+    },
+    "bloc_bento1" : {
+        "title" : {
+            "fr" : "Sites réalisés avec notre système",
+            "en" : "Sites built with our system"
+        },
+        "subtitle" : {
+            "fr" : "Quelques exemples de sites livrés avec notre framework de production.",
+            "en" : "A few examples of websites delivered with our production framework."
+        },
+        "note" : {
+            "fr" : "Ce site est lui aussi construit avec ce même système.",
+            "en" : "This current website is also built with the same system."
+        },
+        "items" : {
+            "fr" : "bento.items",
+            "en" : "bento.items"
+        }
+    },
+    "bloc_pricing1" : {
+        "title" : {
+            "fr" : "Tarification claire",
+            "en" : "Transparent pricing"
+        },
+        "subtitle" : {
+            "fr" : "Hébergement gratuit. Base à 100 EUR pour 5 sections.",
+            "en" : "Hosting is free. Build cost starts at 100 EUR for 5 sections."
+        },
+        "plans" : {
+            "fr" : "pricing.plans",
+            "en" : "pricing.plans"
+        }
+    },
+    "bloc_testimonials1" : {
+        "title" : {
+            "fr" : "Ce que disent les clients",
+            "en" : "What clients say"
+        },
+        "subtitle" : {
+            "fr" : "Les équipes qui utilisent cette approche modulaire livrent plus vite sans perdre en qualité.",
+            "en" : "Teams using this modular approach ship websites faster without sacrificing quality."
+        },
+        "items" : {
+            "fr" : "testimonials.items",
+            "en" : "testimonials.items"
+        }
+    },
+    "bloc_footer1" : {
+        "links" : [
+            {
+                "label" : {
+                    "fr" : "Confidentialité",
+                    "en" : "Privacy"
+                },
+                "href" : "#"
+            },
+            {
+                "label" : {
+                    "fr" : "Conditions",
+                    "en" : "Terms"
+                },
+                "href" : "#"
+            },
+            {
+                "label" : {
+                    "fr" : "Contact",
+                    "en" : "Contact"
+                },
+                "href" : "#contact"
+            }
+        ],
+        "copyright" : {
+            "fr" : "© 2026 Orbisite. Tous droits réservés.",
+            "en" : "© 2026 Orbisite. All rights reserved."
+        }
+    }
+}

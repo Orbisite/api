@@ -1,0 +1,47 @@
+{
+    "primary": {
+      "surface": "#0a0a0a",
+      "accent": "#f5f5f5",
+      "badgeBorder": "#525252",
+      "badgeBg": "#262626",
+      "badgeText": "#f5f5f5",
+      "buttonBg": "#ffffff",
+      "buttonText": "#0a0a0a",
+      "buttonHover": "#e5e5e5",
+      "subtleBorder": "#525252",
+      "subtleBg": "#262626",
+      "subtleText": "#f5f5f5",
+      "subtleHover": "#404040",
+      "ring": "#d4d4d4"
+    },
+    "secondary": {
+      "surface": "#0a0a0a",
+      "accent": "#e5e5e5",
+      "badgeBorder": "#525252",
+      "badgeBg": "#171717",
+      "badgeText": "#e5e5e5",
+      "buttonBg": "#e5e5e5",
+      "buttonText": "#0a0a0a",
+      "buttonHover": "#ffffff",
+      "subtleBorder": "#525252",
+      "subtleBg": "#171717",
+      "subtleText": "#e5e5e5",
+      "subtleHover": "#262626",
+      "ring": "#a3a3a3"
+    },
+    "neutral": {
+      "surface": "#0a0a0a",
+      "accent": "#e5e5e5",
+      "badgeBorder": "#525252",
+      "badgeBg": "#262626",
+      "badgeText": "#e5e5e5",
+      "buttonBg": "#f5f5f5",
+      "buttonText": "#171717",
+      "buttonHover": "#ffffff",
+      "subtleBorder": "#525252",
+      "subtleBg": "#262626",
+      "subtleText": "#e5e5e5",
+      "subtleHover": "#404040",
+      "ring": "#737373"
+    }
+  }
