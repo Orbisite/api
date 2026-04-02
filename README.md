@@ -7,13 +7,13 @@ Ce dépôt contient les données **éditables par le client** pour le site Orbis
 | Fichier | Rôle |
 |--------|------|
 | `content.json` | Textes, titres, liens, images par section |
-| `theme.json` | Couleurs primary / secondary / neutral + images par défaut |
+| `theme.json` | Couleurs primary / secondary / neutral |
 | `site.json` | Titre, description, meta Open Graph / Twitter, favicon |
 | `img/` | Fichiers images (référencés par nom dans les JSON) |
 
 ## Images
 
-Dans `content.json` et `theme.json`, les champs peuvent mentionner soit une **URL absolue** (`https://...`), soit un **nom de fichier** présent dans `img/`.
+Dans `content.json` et `site.json`, les références d’images peuvent être une **URL absolue** (`https://...`) ou un **nom de fichier** présent dans `img/`.
 
 ## Domaine (CNAME)
 

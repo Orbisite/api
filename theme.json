@@ -43,21 +43,5 @@
     "subtleText": "#e5e5e5",
     "subtleHover": "#404040",
     "ring": "#737373"
-  },
-  "images": {
-    "logo": "logo_full_no_background.png",
-    "hero": "logo_full_no_background.png",
-    "favicon": "logo_no_background.png",
-    "ogImage": "logo_full_no_background.png",
-    "bento": [
-      "logo_full_no_background.png",
-      "logo_full_no_background.png",
-      "logo_full_no_background.png"
-    ],
-    "testimonialAvatars": [
-      "logo_no_background.png",
-      "logo_no_background.png",
-      "logo_no_background.png"
-    ]
   }
 }
