@@ -142,6 +142,10 @@
           "en": "One page with up to 5 sections"
         },
         "features": [
+          {
+            "fr": "Votre site est accessible à l’adresse orbisite.fr/votre-nom (nom convenu avec vous)",
+            "en": "Your site is served at orbisite.fr/your-name (we agree on the slug)"
+          },
           { "fr": "Mise en place initiale incluse", "en": "Initial setup included" },
           { "fr": "Hébergement inclus (gratuit)", "en": "Hosting included (free)" },
           {
@@ -181,6 +185,32 @@
           { "fr": "Aucun surcoût d’hébergement", "en": "No hosting surcharge" }
         ],
         "ctaText": { "fr": "Ajouter des sections", "en": "Add sections" }
+      },
+      {
+        "name": { "fr": "Domaine personnalisé", "en": "Custom domain" },
+        "price": {
+          "fr": "50 EUR + nom de domaine à votre charge",
+          "en": "50 EUR + domain name at your expense"
+        },
+        "description": {
+          "fr": "Configuration DNS (CNAME, etc.) pour pointer votre nom de domaine vers le site",
+          "en": "DNS setup (CNAME, etc.) to point your domain to the site"
+        },
+        "features": [
+          {
+            "fr": "Mise en place du pointage DNS (CNAME, enregistrements nécessaires)",
+            "en": "DNS setup (CNAME and any required records)"
+          },
+          {
+            "fr": "L’achat et le renouvellement du nom de domaine restent à votre charge",
+            "en": "Domain purchase and renewal stay on your side"
+          },
+          {
+            "fr": "Accompagnement avec votre registrar ou hébergeur DNS",
+            "en": "Guidance with your registrar or DNS host"
+          }
+        ],
+        "ctaText": { "fr": "Parler d’un domaine", "en": "Discuss a domain" }
       }
     ]
   },
