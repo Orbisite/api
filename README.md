@@ -6,7 +6,7 @@ Ce dépôt contient les données **éditables par le client** pour le site Orbis
 
 | Fichier | Rôle |
 |--------|------|
-| `content.json` | Textes, titres, liens, images par section (dont pied de page : `linkHrefs`, `socials`) |
+| `content.json` | Textes, titres, liens, images par section (dont pied de page : `linkHrefs`, `socials`). Optionnel : clé **`pages`** pour plusieurs URLs (voir [modèle `api-starter`](../model/api-starter/README.md#multi-pages-pages-dans-contentjson)). |
 | `theme.json` | Couleurs primary / secondary / neutral |
 | `site.json` | Titre, description, meta Open Graph / Twitter, favicon |
 | `img/` | Fichiers images (référencés par nom dans les JSON) |
