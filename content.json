@@ -23,6 +23,7 @@
       { "label": { "fr": "Témoignages", "en": "Testimonials" }, "href": "#testimonials" }
     ],
     "cta": { "fr": "Démarrer un projet", "en": "Start project" },
+    "ctaHref": "#contact",
     "menu": { "fr": "Menu", "en": "Menu" },
     "close": { "fr": "Fermer", "en": "Close" }
   },
@@ -36,6 +37,7 @@
       "en": "We design and deliver your site with a reliable framework, then your team updates key content without friction."
     },
     "cta": { "fr": "Voir le tarif", "en": "View pricing" },
+    "ctaHref": "#pricing",
     "imageAlt": {
       "fr": "Aperçu de maquette de site web",
       "en": "Website preview mockup"
@@ -128,6 +130,8 @@
     ]
   },
   "pricing": {
+    "highlightedPlan": 0,
+    "planCtaHref": "#contact",
     "title": { "fr": "Tarification claire", "en": "Transparent pricing" },
     "subtitle": {
       "fr": "Hébergement gratuit. Base à 99,99 EUR pour 5 sections.",
@@ -252,6 +256,16 @@
     "privacy": { "fr": "Confidentialité", "en": "Privacy" },
     "terms": { "fr": "Conditions", "en": "Terms" },
     "contact": { "fr": "Contact", "en": "Contact" },
+    "linkHrefs": {
+      "privacy": "#",
+      "terms": "#",
+      "contact": "#contact"
+    },
+    "socials": [
+      { "label": { "fr": "X", "en": "X" }, "href": "#" },
+      { "label": { "fr": "LinkedIn", "en": "LinkedIn" }, "href": "#" },
+      { "label": { "fr": "GitHub", "en": "GitHub" }, "href": "https://github.com/Orbisite" }
+    ],
     "copyright": {
       "fr": "© 2026 Orbisite. Tous droits réservés.",
       "en": "© 2026 Orbisite. All rights reserved."
