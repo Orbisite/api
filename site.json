@@ -1,0 +1,20 @@
+{
+  "title": "Orbisite",
+  "description": "Orbisite - Des sites qui gravitent autour de votre projet.",
+  "canonicalUrl": "https://orbisite.fr/",
+  "og": {
+    "type": "website",
+    "url": "https://orbisite.fr/",
+    "title": "Orbisite",
+    "description": "Des sites qui gravitent autour de votre projet.",
+    "locale": "fr_FR",
+    "image": "logo_full_no_background.png"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Orbisite",
+    "description": "Des sites qui gravitent autour de votre projet.",
+    "image": "logo_full_no_background.png"
+  },
+  "favicon": "logo_no_background.png"
+}
