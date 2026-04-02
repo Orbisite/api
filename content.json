@@ -136,6 +136,7 @@
     "plans": [
       {
         "name": { "fr": "Base", "en": "Base" },
+        "columnSpan": "full",
         "price": { "fr": "99,99 EUR", "en": "99.99 EUR" },
         "description": {
           "fr": "Une page avec 5 sections",
