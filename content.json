@@ -3,11 +3,7 @@
     "logoSrc": "logo_full_no_background.png",
     "hero": "logo_full_no_background.png",
     "ogImage": "logo_full_no_background.png",
-    "bento": [
-      "logo_full_no_background.png",
-      "logo_full_no_background.png",
-      "logo_full_no_background.png"
-    ],
+    "bento": ["erlow.png", "raito.png", "mei.png"],
     "testimonialAvatars": [
       "logo_no_background.png",
       "logo_no_background.png",
@@ -82,12 +78,12 @@
   },
   "bento": {
     "title": {
-      "fr": "Sites réalisés avec notre système",
-      "en": "Sites built with our system"
+      "fr": "Démos réalisées avec notre système",
+      "en": "Demos built with our system"
     },
     "subtitle": {
-      "fr": "Quelques exemples de sites livrés avec notre framework de production.",
-      "en": "A few examples of websites delivered with our production framework."
+      "fr": "Trois démos en ligne : équipe esport, portfolio 3D et boutique artisanale.",
+      "en": "Three live demos: esports team, 3D art portfolio, and handmade shop."
     },
     "note": {
       "fr": "Ce site est lui aussi construit avec ce même système.",
@@ -95,37 +91,31 @@
     },
     "items": [
       {
-        "title": {
-          "fr": "Landing page entreprise de services",
-          "en": "Service business landing page"
-        },
+        "title": { "fr": "Erlow", "en": "Erlow" },
         "text": {
-          "fr": "Livraison rapide avec sections réutilisables et structure orientée conversion.",
-          "en": "Fast delivery with reusable sections and clean conversion-focused structure."
+          "fr": "Démo d’un site d’équipe esport : roster, actus et identité visuelle.",
+          "en": "Esports team website demo: roster, news, and strong visual identity."
         },
-        "href": "#",
-        "ctaText": { "fr": "Voir", "en": "Preview" }
+        "href": "https://orbisite.fr/erlow",
+        "ctaText": { "fr": "Voir la démo", "en": "Open demo" }
       },
       {
-        "title": {
-          "fr": "Site vitrine société locale",
-          "en": "Local company showcase"
-        },
+        "title": { "fr": "Raito", "en": "Raito" },
         "text": {
-          "fr": "Structure simple, message clair, et modifications de contenu faciles.",
-          "en": "Simple structure, clear messaging, and easy content updates."
+          "fr": "Démo d’un portfolio d’artiste 3D pour mettre en avant vos créations.",
+          "en": "3D artist portfolio demo to showcase your work."
         },
-        "href": "#",
-        "ctaText": { "fr": "Voir", "en": "Preview" }
+        "href": "https://orbisite.fr/raito",
+        "ctaText": { "fr": "Voir la démo", "en": "Open demo" }
       },
       {
-        "title": { "fr": "Portfolio one-page", "en": "Portfolio one-page site" },
+        "title": { "fr": "Mei", "en": "Mei" },
         "text": {
-          "fr": "Mise en page compacte et modulaire adaptée aux activités visuelles.",
-          "en": "Compact and modular layout adapted to visual-first businesses."
+          "fr": "Démo d’un site de vente de créations au crochet et produits faits main.",
+          "en": "Demo shop for crochet pieces and handmade goods."
         },
-        "href": "#",
-        "ctaText": { "fr": "Voir", "en": "Preview" }
+        "href": "https://orbisite.fr/mei",
+        "ctaText": { "fr": "Voir la démo", "en": "Open demo" }
       }
     ]
   },
