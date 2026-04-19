@@ -121,7 +121,7 @@
   },
   "pricing": {
     "highlightedPlan": 0,
-    "planCtaHref": "#contact",
+    "planCtaHref": "https://discord.gg/YuVzT2dR7c",
     "title": { "fr": "Tarification claire", "en": "Transparent pricing" },
     "subtitle": {
       "fr": "Hébergement gratuit. Base à 99,99 EUR pour 5 sections.",
@@ -243,8 +243,6 @@
     ]
   },
   "footer": {
-    "privacy": { "fr": "Confidentialité", "en": "Privacy" },
-    "terms": { "fr": "Conditions", "en": "Terms" },
     "contact": { "fr": "Contact", "en": "Contact" },
     "linkHrefs": {
       "privacy": "#",
@@ -252,8 +250,7 @@
       "contact": "https://discord.gg/YuVzT2dR7c"
     },
     "socials": [
-      { "label": { "fr": "X", "en": "X" }, "href": "#" },
-      { "label": { "fr": "LinkedIn", "en": "LinkedIn" }, "href": "#" },
+      { "label": { "fr": "Discord", "en": "Discord" }, "href": "https://discord.gg/YuVzT2dR7c" },
       { "label": { "fr": "GitHub", "en": "GitHub" }, "href": "https://github.com/Orbisite" }
     ],
     "copyright": {
