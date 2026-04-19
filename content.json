@@ -243,8 +243,12 @@
     ]
   },
   "footer": {
+    "privacy": { "fr": "Confidentialité", "en": "Privacy" },
+    "terms": { "fr": "Conditions", "en": "Terms" },
     "contact": { "fr": "Contact", "en": "Contact" },
     "linkHrefs": {
+      "privacy": "/confidentialite",
+      "terms": "/conditions",
       "contact": "https://discord.gg/YuVzT2dR7c"
     },
     "socials": [
