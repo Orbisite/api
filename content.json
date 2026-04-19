@@ -19,7 +19,7 @@
       { "label": { "fr": "Témoignages", "en": "Testimonials" }, "href": "#testimonials" }
     ],
     "cta": { "fr": "Démarrer un projet", "en": "Start project" },
-    "ctaHref": "#contact",
+    "ctaHref": "https://discord.gg/YuVzT2dR7c",
     "menu": { "fr": "Menu", "en": "Menu" },
     "close": { "fr": "Fermer", "en": "Close" }
   },
