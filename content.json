@@ -245,8 +245,6 @@
   "footer": {
     "contact": { "fr": "Contact", "en": "Contact" },
     "linkHrefs": {
-      "privacy": "#",
-      "terms": "#",
       "contact": "https://discord.gg/YuVzT2dR7c"
     },
     "socials": [
