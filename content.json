@@ -217,28 +217,28 @@
     },
     "items": [
       {
-        "name": { "fr": "Lina Moreau", "en": "Lina Moreau" },
+        "name": { "fr": "Leo G.", "en": "Leo G." },
         "text": {
-          "fr": "Les blocs prédéfinis nous ont permis de lancer en une semaine sans incohérence visuelle.",
-          "en": "The predefined blocks helped us launch in one week with zero design inconsistencies."
+          "fr": "Portfolio beau et fonctionnel. Je suis très content de l'avoir fait avec Orbisite.",
+          "en": "Beautiful and functional portfolio. I'm very happy to have made it with Orbisite."
         },
         "rating": 5
       },
       {
-        "name": { "fr": "Armand Petit", "en": "Armand Petit" },
+        "name": { "fr": "Ethan E. (Createur d'Orbisite)", "en": "Ethan E. (Creator of Orbisite)" },
         "text": {
-          "fr": "On construit désormais des pages clients plus vite avec une structure fiable.",
-          "en": "We now build client pages with a reliable structure and much faster production cycles."
+          "fr": "Nous construisons désormais des pages clients plus vite avec une structure fiable.",
+          "en": "We now build client pages faster with a reliable structure."
         },
         "rating": 5
       },
       {
-        "name": { "fr": "Salma R.", "en": "Salma R." },
+        "name": { "fr": "Laureen B. (Creatrice d'Orbisite)", "en": "Laureen B. (Creator of Orbisite)" },
         "text": {
-          "fr": "Langage visuel propre, édition facile, et fini les demandes de layouts hors cadre.",
-          "en": "Clean visual language, easy edits, and no scope creep from random layout requests."
+          "fr": "Un outil de développement web fiable et rapide qui correspond à vos besoins.",
+          "en": "A reliable and fast web development tool that meets your needs."
         },
-        "rating": 4
+        "rating": 5
       }
     ]
   },
@@ -249,7 +249,7 @@
     "linkHrefs": {
       "privacy": "#",
       "terms": "#",
-      "contact": "#contact"
+      "contact": "https://discord.gg/YuVzT2dR7c"
     },
     "socials": [
       { "label": { "fr": "X", "en": "X" }, "href": "#" },
