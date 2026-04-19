@@ -1,7 +1,7 @@
 {
   "images": {
     "logoSrc": "logo_full_no_background.png",
-    "hero": "logo_full_no_background.png",
+    "hero": "logo_no_background.png",
     "ogImage": "logo_full_no_background.png",
     "bento": ["erlow.png", "raito.png", "mei.png"],
     "testimonialAvatars": [
